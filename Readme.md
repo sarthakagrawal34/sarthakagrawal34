@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=sarthakagrawal34)
 ### Hi there! I'm Sarthak Agrawal.
 <p align = "center"> 
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/AboutMe-light.png" height="120em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/master/assets/AboutMe-light.png" height="120em" />
 </p>
 <ul>
 <li>I'm currently working as a Software Engineer with 2+ years of hands-on experience in developing responsive web applications. Proficient in <b>HTML, CSS, JavaScript, Typescript</b>, and popular library and frameworks like <b>React</b> and <b>Angular8</b>. Skilled in translating design concepts into efficient, user-friendly interfaces. Committed to staying updated with emerging technologies and delivering high-quality code to meet project goals and exceed client expectations
