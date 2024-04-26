@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=sarthakagrawal34)
 ### Hi there! I'm Sarthak Agrawal.
 <p align = "center"> 
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/gifs/pen-doretti-nicholas-dribble.gif" height="80em" />
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/images/AboutMe-light.png" height="120em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/AboutMe-light.png" height="120em" />
 </p>
 <ul>
 <li>I'm currently working as a Software Engineer with 2+ years of hands-on experience in developing responsive web applications. Proficient in <b>HTML, CSS, JavaScript, Typescript</b>, and popular library and frameworks like <b>React</b> and <b>Angular8</b>. Skilled in translating design concepts into efficient, user-friendly interfaces. Committed to staying updated with emerging technologies and delivering high-quality code to meet project goals and exceed client expectations
@@ -16,8 +16,8 @@
 <br>
 <br>
 <p align = "center">
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/images/TechStack-light-center.png" height="120em" />
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/gifs/resp-dribble.gif" height="120em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/TechStack-light-center.png" height="120em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/resp-dribble.gif" height="120em" />
 </p>
 <div align = "center" style = "table-layout:fixed;">
   <table>
@@ -52,8 +52,8 @@
 <br>
 
 <p align = "center"> 
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/images/Connect-light-0x01.jpg" height="100em" />
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/gifs/team-doretti-nicolas-dribble.gif" height="80em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/Connect-light-0x01.jpg" height="100em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/team-doretti-nicolas-dribble.gif" height="80em" />
 </p>
 
 <p align="left">
