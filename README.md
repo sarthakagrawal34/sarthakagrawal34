@@ -5,8 +5,8 @@
 ### Hi there! I'm Sarthak Agrawal.
 
 <p align="center"> 
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/AboutMe-light.png" height="120em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/gh-pages/assets/pen-doretti-nicholas-dribble.gif" height="80em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/gh-pages/assets/AboutMe-light.png" height="120em" />
 </p>
 
 <ul>
@@ -18,8 +18,8 @@
 </ul>
 
 <p align="center">
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/TechStack-light-center.png" height="120em" />
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/resp-dribble.gif" height="120em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/gh-pages/assets/TechStack-light-center.png" height="120em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/gh-pages/assets/resp-dribble.gif" height="120em" />
 </p>
 
 <div align="center">
@@ -53,8 +53,8 @@
 <br>
 
 <p align="center"> 
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/Connect-light-0x01.jpg" height="100em" />
-  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/team-doretti-nicolas-dribble.gif" height="80em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/gh-pages/assets/Connect-light-0x01.jpg" height="100em" />
+  <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/gh-pages/assets/team-doretti-nicolas-dribble.gif" height="80em" />
 </p>
 
 <p align="left">
