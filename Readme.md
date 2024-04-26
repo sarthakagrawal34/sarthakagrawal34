@@ -25,25 +25,28 @@
     <col width="220em" />
     <col width="200em" />
     <tr>
-      <td align="center"> <img src = "https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/go-color.svg" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Go-white?logo=Go&logoColor=%2300ADD8" \> 
+      </td>
       <td align="center"> <img src = "https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C" \> </td>
       <td align="center"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"\> </td>
     </tr>
     <tr>
       <td align="center"> <img src = "https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql" \> </td>
-      <td align="center"> <img src = "https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/mongodb-color.svg" \> </td>
-      <td align="center"> <img src = "https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/redis-color.svg" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-MongoDB-white?logo=MongoDB&logoColor=%2347A248" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Redis-white?logo=Redis&logoColor=%23DC382D
+      " \> </td>
     </tr>
     <tr>
-      <td align="center"> <img src = "https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/apachekafka-color.svg" \> </td>
-      <td align="center"> <img src = "https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/newrelic-color.svg" \> </td>
-      <td align="center"> <img src = "https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/newrelic-color.svg" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Kafka-white?logo=Apache-Kafka&logoColor=%23231F20" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-New%20Relic-white?logo=New%20Relic&logoColor=%231CE783" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-JMeter-white?logo=Apache%20JMeter&logoColor=%23D22128" \> </td>
     </tr>
     <tr>
     </tr>
     <tr>
       <td align="center"> <img src = "https://img.shields.io/badge/-Git-white?style=flat&logo=git" \> </td>
-      <td align="center"> <img src = "https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/react-color.svg" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-React-white?logo=React&logoColor=%2361DAFB
+      " \> </td>
       <td align="center"> <img src = "https://img.shields.io/badge/-VS%20Code-white?style=flat&logo=visual-studio-code&logoColor=007ACC"\></td>
     </tr>
   </table>
