@@ -10,11 +10,11 @@
 </p>
 
 <ul>
-  <li>Passionate and skilled backend developer with 2 years of experience in software development. Proficient in <b>Go, C++</b> and experienced in building robust APIs using <b>gRPC</b>.</li>
-  <li>Worked with some of the workflow tools like <b>Apache Kafka</b> and some of the monitoring tools like <b>New Relic</b>. I have a good hold in doing non-functional regression testing using <b>Apache JMeter</b>.</li>
-  <li>Proficient in articulating ideas, discussing project requirements, and providing updates in a clear and concise manner.</li>
-  <li>Rapidly adapt to new technologies, methodologies, and tools to stay ahead in a dynamic industry.</li>
-  <li>Drop me a mail at <a href="mailto:agrawal.sarthak2599@gmail.com">agrawal.sarthak2599@gmail.com</a>. I will revert back as soon as I can.</li>
+  <li><strong>Passionate and skilled backend developer</strong> with 2 years of experience in software development. Proficient in <strong>Go</strong>, <strong>C++</strong>, and experienced in building robust APIs using <strong>gRPC</strong>.</li>
+  <li><strong>Expertise with workflow tools</strong> like <strong>Apache Kafka</strong> and monitoring tools such as <strong>New Relic</strong>. Proficient in conducting non-functional regression testing using <strong>Apache JMeter</strong>.</li>
+  <li><strong>Exceptional communication skills</strong> in articulating ideas, discussing project requirements, and delivering updates in a clear and concise manner.</li>
+  <li><strong>Dynamic adaptability</strong> to new technologies, methodologies, and tools to stay ahead in the industry.</li>
+  <li>Feel free to <strong>reach out</strong> via email at <a href="mailto:agrawal.sarthak2599@gmail.com">agrawal.sarthak2599@gmail.com</a>. I'll respond promptly.</li>
 </ul>
 
 <p align="center">
