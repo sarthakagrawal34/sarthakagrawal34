@@ -7,10 +7,13 @@
   <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/AboutMe-light.png" height="120em" />
 </p>
 <ul>
-<li>I'm currently working as a Software Engineer with 2+ years of hands-on experience in developing responsive web applications. Proficient in <b>HTML, CSS, JavaScript, Typescript</b>, and popular library and frameworks like <b>React</b> and <b>Angular8</b>. Skilled in translating design concepts into efficient, user-friendly interfaces. Committed to staying updated with emerging technologies and delivering high-quality code to meet project goals and exceed client expectations
+<li>Passionate and skilled backend developer with 2 years of experience in software development. Proficient in <b>Go, C++ </b> and experienced in building robust APIs using <b>gRPC</b>.
 </li>
-<li>Competitive Programming is my hobby, passion and skill</li>
-<li>In my free time, I find enjoyment in reading and writing blogs, expanding my knowledge, and delving into stock market analysis and investment</li>
+<li>Worked with some of the workflow tools like <b>Apache kafka</b> and some of the monitoring tools like <b>New Relic</b>. I have a good hold in doing non functional regression testing using <b>Apache JMeter</b>.
+</li>
+<li>Proficient in articulating ideas, discussing project requirements, and providing updates in a clear and concise manner.</li>
+<li>Rapidly adapt to new technologies, methodologies, and tools to stay ahead in a dynamic industry.</li>
+
 <li>Drop me a mail at <a href = "mailto:agrawal.sarthak2599@gmail.com">agrawal.sarthak2599@gmail.com</a>. I will revert back as soon as I can</li>
 </ul>
 <br>
