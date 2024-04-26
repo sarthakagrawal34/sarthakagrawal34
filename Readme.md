@@ -62,26 +62,19 @@
 <br>
 <br>
 
-
-
-
-
-
-
 <p align = "center"> 
   <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/Connect-light-0x01.jpg" height="100em" />
   <img src="https://github.com/sarthakagrawal34/sarthakagrawal34/blob/master/assets/team-doretti-nicolas-dribble.gif" height="80em" />
 </p>
+
 <p align="left">
 <a href="mailto:agrawal.sarthak2599@gmail.com"><img src="https://img.shields.io/badge/-sarthakagrawal.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sarthak-agrawal-4876a2194"><img src="https://img.shields.io/badge/-Sarthak%20Agrawal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<br>
 <a href="https://auth.geeksforgeeks.org/user/sarthak2599
 /practice/"><img src="https://img.shields.io/badge/sarthak2599
 -darkgreen?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://leetcode.com/sarthak2599/"><img src="https://img.shields.io/badge/-sarthak2599-FFA116?style=flat&logo=Leetcode&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/agrawal_sarthak3"><img src="https://img.shields.io/badge/-sarthakagrawal34-2EC866?style=flat&logo=Hackerrank&logoColor=white"/></a>
-  
 </p>
 
 
